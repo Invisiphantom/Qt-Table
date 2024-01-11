@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>css/scaleSlider.css</file>
+        <file>img/favicon.ico</file>
+        <file>img/Open_File.png</file>
+        <file>img/Help.png</file>
+        <file>Help.md</file>
+        <file>img/Save_File.png</file>
+    </qresource>
+</RCC>
